@@ -1,0 +1,9 @@
+---
+contentDir: "content"
+layoutDir: "Layouts"
+publishDir: "Public"
+indexes:
+	category: "categories"
+baseURL: "http://blag.bkrn.org"
+title: "bkrn Blag"
+canonifyURLs: true
