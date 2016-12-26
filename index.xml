@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bkrn Blag</title>
-    <link>/blag.bkrn.org/index.xml</link>
+    <link>http://blag.bkrn.org/index.xml</link>
     <description>Recent content on bkrn Blag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Dec 2016 16:14:51 -0800</lastBuildDate>
-    <atom:link href="/blag.bkrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blag.bkrn.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>avalanche forecast</title>
-      <link>/blag.bkrn.org/post/avalanche-forecast/</link>
+      <link>http://blag.bkrn.org/post/avalanche-forecast/</link>
       <pubDate>Sun, 25 Dec 2016 16:14:51 -0800</pubDate>
       
-      <guid>/blag.bkrn.org/post/avalanche-forecast/</guid>
+      <guid>http://blag.bkrn.org/post/avalanche-forecast/</guid>
       <description></description>
     </item>
     

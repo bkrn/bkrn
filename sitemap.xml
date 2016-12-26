@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/blag.bkrn.org/post/avalanche-forecast/</loc>
+    <loc>http://blag.bkrn.org/post/avalanche-forecast/</loc>
     <lastmod>2016-12-25T16:14:51-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/blag.bkrn.org/post/</loc>
+    <loc>http://blag.bkrn.org/post/</loc>
     <lastmod>2016-12-25T16:14:51-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blag.bkrn.org/</loc>
+    <loc>http://blag.bkrn.org/</loc>
     <lastmod>2016-12-25T16:14:51-08:00</lastmod>
     <priority>0</priority>
   </url>
