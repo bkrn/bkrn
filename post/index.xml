@@ -32,15 +32,15 @@
 &lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Python based analytical modelling project based around generic probablity distributions, simple machine learning, and rapid visualization.&lt;/p&gt;
+&lt;li&gt;Python based analytical modelling project based around generic probablity distributions, simple machine learning, and rapid visualization.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id=&#34;key-skills&#34;&gt;Key Skills&lt;/h3&gt;&lt;/li&gt;
+&lt;h3 id=&#34;key-skills&#34;&gt;Key Skills&lt;/h3&gt;
 
-&lt;li&gt;&lt;p&gt;Generically modeled objective distributions of categorical, ordinal, and continuous samples&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Develop and apply seld implemented bayseian and k-means algorithims&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Integrated visualized results using pyplot/matplotlib&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Generically modeled objective distributions of categorical, ordinal, and continuous samples&lt;/li&gt;
+&lt;li&gt;Develop and apply seld implemented bayseian and k-means algorithims&lt;/li&gt;
+&lt;li&gt;Integrated visualized results using pyplot/matplotlib&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;buzzer-beater&#34;&gt;Buzzer Beater&lt;/h2&gt;
@@ -50,15 +50,15 @@
 &lt;h3 id=&#34;description-1&#34;&gt;Description&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Go and JS based IOT doorbell based around RaspberryPi&lt;/p&gt;
+&lt;li&gt;Go and JS based IOT doorbell based around RaspberryPi&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id=&#34;key-skills-1&#34;&gt;Key Skills&lt;/h3&gt;&lt;/li&gt;
+&lt;h3 id=&#34;key-skills-1&#34;&gt;Key Skills&lt;/h3&gt;
 
-&lt;li&gt;&lt;p&gt;Integrate home server and AWS lambda&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Tooling about with a bread board&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Android targeted mobile development&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Integrate home server and AWS lambda&lt;/li&gt;
+&lt;li&gt;Tooling about with a bread board&lt;/li&gt;
+&lt;li&gt;Android targeted mobile development&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;recent-experience&#34;&gt;Recent Experience&lt;/h1&gt;
