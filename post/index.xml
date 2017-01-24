@@ -6,8 +6,105 @@
     <description>Recent content in Posts on bkrn Blag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Dec 2016 16:53:32 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2017 21:20:14 -0800</lastBuildDate>
     <atom:link href="http://blag.bkrn.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Résumé</title>
+      <link>http://blag.bkrn.org/post/resumes/</link>
+      <pubDate>Mon, 23 Jan 2017 21:20:14 -0800</pubDate>
+      
+      <guid>http://blag.bkrn.org/post/resumes/</guid>
+      <description>
+
+&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
+
+&lt;p&gt;Aaron Di Silvestro
+&lt;em&gt;aaron &lt;at&gt; bkrn &lt;dot&gt; org&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;recent-open-source-projects&#34;&gt;Recent Open-source Projects&lt;/h1&gt;
+
+&lt;h2 id=&#34;pynfrence&#34;&gt;Pynfrence&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;github.com/bkrn/pynfrence&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Python based analytical modelling project based around generic probablity distributions, simple machine learning, and rapid visualization.&lt;/p&gt;
+
+&lt;h3 id=&#34;key-skills&#34;&gt;Key Skills&lt;/h3&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Generically modeled objective distributions of categorical, ordinal, and continuous samples&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Develop and apply seld implemented bayseian and k-means algorithims&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Integrated visualized results using pyplot/matplotlib&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;buzzer-beater&#34;&gt;Buzzer Beater&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;github.com/bkrn/buzzer-beater&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;description-1&#34;&gt;Description&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Go and JS based IOT doorbell based around RaspberryPi&lt;/p&gt;
+
+&lt;h3 id=&#34;key-skills-1&#34;&gt;Key Skills&lt;/h3&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Integrate home server and AWS lambda&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tooling about with a bread board&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Android targeted mobile development&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;recent-experience&#34;&gt;Recent Experience&lt;/h1&gt;
+
+&lt;h2 id=&#34;data-engineer&#34;&gt;Data Engineer&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nike &amp;mdash; Nov 2016 - Current&lt;/li&gt;
+&lt;li&gt;Description
+
+&lt;ul&gt;
+&lt;li&gt;Full stack data engineer under contract with Nike Sustainable Business and Innovation on the Advanced Analytics Team.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Accomplishments
+
+&lt;ul&gt;
+&lt;li&gt;Designed and implemented (diagram to code) central ETL, modeling, and reporting stack&lt;/li&gt;
+&lt;li&gt;Implemented and maintained team environemnt in broader Nike data warehouse&lt;/li&gt;
+&lt;li&gt;Coded POC D3.js based visualization tool and oversaw production implementation of code by contractor&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Skills
+
+&lt;ul&gt;
+&lt;li&gt;Production Go and Python in web and analytics applications&lt;/li&gt;
+&lt;li&gt;Internal application development&lt;/li&gt;
+&lt;li&gt;Enterprise ETL architecture&lt;/li&gt;
+&lt;li&gt;Oracle and Mongo database administration&lt;/li&gt;
+&lt;li&gt;D3.js, tableau, and Python data visualization&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;data-and-reporting-analyst&#34;&gt;Data and Reporting Analyst&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cambia Health Solutions &amp;mdash; June 2016 -  Sept 2016&lt;/li&gt;
+&lt;li&gt;Description
+
+&lt;ul&gt;
+&lt;li&gt;Quarter long contract with Operation Analytics Center of Excellence focused on reporting and telphony migrations&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
+
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+</description>
+    </item>
     
     <item>
       <title>buzzer beater</title>
