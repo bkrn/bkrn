@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on bkrn</title>
+    <title>Posts on Aaron Di Silvestro</title>
     <link>http://blag.bkrn.org/post/index.xml</link>
-    <description>Recent content in Posts on bkrn</description>
+    <description>Recent content in Posts on Aaron Di Silvestro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Aaron Di Silvestro</copyright>
@@ -657,7 +657,7 @@ Strikethrough with ~~two tildes~~.
 &lt;pre&gt;&lt;code&gt;I : heart : Academic : smile :
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;I ❤️ Academic 😄&lt;/p&gt;
+&lt;p&gt;I :heart: Academic :smile:&lt;/p&gt;
 
 &lt;h2 id=&#34;blockquote&#34;&gt;Blockquote&lt;/h2&gt;
 
