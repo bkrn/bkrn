@@ -10,7 +10,7 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My Résumé</title>
+      <title>Résumé</title>
       <link>http://blag.bkrn.org/post/resumes/</link>
       <pubDate>Mon, 23 Jan 2017 21:20:14 -0800</pubDate>
       
@@ -23,45 +23,12 @@
 
 &lt;p&gt;&lt;em&gt;aaron &amp;lt;at&amp;gt; bkrn &amp;lt;dot&amp;gt; org&lt;/em&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;recent-open-source-projects&#34;&gt;Recent Open-source Projects&lt;/h1&gt;
+&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
 
-&lt;h2 id=&#34;pynfrence&#34;&gt;Pynfrence&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;If you are looking for ransom I can tell you I don&#39;t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career. Skills that make me a nightmare for people like you. If you let my daughter go now that&#39;ll be the end of it.
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;em&gt;github.com/bkrn/pynfrence&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Python based analytical modelling project based around generic probablity distributions, simple machine learning, and rapid visualization.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;key-skills&#34;&gt;Key Skills&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Generically modeled objective distributions of categorical, ordinal, and continuous samples&lt;/li&gt;
-&lt;li&gt;Develop and apply seld implemented bayseian and k-means algorithims&lt;/li&gt;
-&lt;li&gt;Integrated visualized results using pyplot/matplotlib&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;buzzer-beater&#34;&gt;Buzzer Beater&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;github.com/bkrn/buzzer-beater&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;description-1&#34;&gt;Description&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Go and JS based IOT doorbell based around RaspberryPi&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;key-skills-1&#34;&gt;Key Skills&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Integrate home server and AWS lambda&lt;/li&gt;
-&lt;li&gt;Tooling about with a bread board&lt;/li&gt;
-&lt;li&gt;Android targeted mobile development&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;recent-experience&#34;&gt;Recent Experience&lt;/h1&gt;
+&lt;h1 id=&#34;recent-work-experience&#34;&gt;Recent Work Experience&lt;/h1&gt;
 
 &lt;h2 id=&#34;data-engineer&#34;&gt;Data Engineer&lt;/h2&gt;
 
@@ -99,11 +66,68 @@
 &lt;ul&gt;
 &lt;li&gt;Quarter long contract with Operations Analytics Center of Excellence focused on reporting and telephony migrations&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Accomplishments
+
+&lt;ul&gt;
+&lt;li&gt;Migrated &amp;gt;1000 SAP Business Objects reports to 5 Tableau dashboards&lt;/li&gt;
+&lt;li&gt;Replaced driven eomplyee tracking process with direct connection to LDAP through python&lt;/li&gt;
+&lt;li&gt;Formalized ETL system for Operation COE and migrated from R to Python&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Skills
+
+&lt;ul&gt;
+&lt;li&gt;Tableau&lt;/li&gt;
+&lt;li&gt;Production Python for ETLs and reporting analytics&lt;/li&gt;
+&lt;li&gt;Big data transformation&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;recent-personal-projects&#34;&gt;Recent Personal Projects&lt;/h1&gt;
+
+&lt;h2 id=&#34;pynfrence&#34;&gt;Pynfrence&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;github.com/bkrn/pynfrence&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Python based analytical modelling project based around generic probablity distributions, simple machine learning, and rapid visualization.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;key-skills&#34;&gt;Key Skills&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Generically modeled objective distributions of categorical, ordinal, and continuous samples&lt;/li&gt;
+&lt;li&gt;Develop and apply seld implemented bayseian and k-means algorithims&lt;/li&gt;
+&lt;li&gt;Integrated visualized results using pyplot/matplotlib&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;buzzer-beater&#34;&gt;Buzzer Beater&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;github.com/bkrn/buzzer-beater&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;description-1&#34;&gt;Description&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Go and JS based IOT doorbell based around RaspberryPi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;key-skills-1&#34;&gt;Key Skills&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Integrate home server and AWS lambda&lt;/li&gt;
+&lt;li&gt;Tooling about with a bread board&lt;/li&gt;
+&lt;li&gt;Android targeted mobile development&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
 
 &lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BA Political Science at The George Washington University&lt;/li&gt;
+&lt;li&gt;Studied Law at Northwest School of Law at Lewis and Clark College&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
