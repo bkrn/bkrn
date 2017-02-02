@@ -17,6 +17,8 @@
       <guid>http://blag.bkrn.org/post/resumes/</guid>
       <description>
 
+&lt;p&gt;&lt;xmp theme=&#34;slate&#34; style=&#34;display:none;&#34;&gt;&lt;/p&gt;
+
 &lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
 
 &lt;p&gt;Aaron Di Silvestro&lt;/p&gt;
@@ -104,6 +106,8 @@
 &lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
 
 &lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+
+&lt;p&gt;&lt;/xmp&gt;&lt;/p&gt;
 </description>
     </item>
     
