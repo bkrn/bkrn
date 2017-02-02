@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Jan 2017 21:20:14 -0800</lastBuildDate>
-    <atom:link href="http://blag.bkrn.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My Résumé</title>
