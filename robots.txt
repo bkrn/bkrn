@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: blag.bkrn.org/sitemap.xml

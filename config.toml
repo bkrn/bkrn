@@ -3,6 +3,8 @@ baseurl = "http://blag.bkrn.org"
 title = "BKRN Blag"
 author = "Aaron Di Silvestro"
 
+publishDir = "."
+
 # Number of blogs you want to list on a single page.
 paginate = 5
 paginatePath  ="page"
