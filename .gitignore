@@ -2,3 +2,4 @@ rawposts/
 config.toml
 main.go
 templates/
+deploy.sh
